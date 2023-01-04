@@ -60,36 +60,21 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 <a name="about-project">Hello Microverse</a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Hello Microverse** is a project built to practice how to correctly set up and HTML & CSS project with linters and a .gitignore file
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">HTML</a></li>
   </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">CSS</a></li>
   </ul>
 </details>
 
