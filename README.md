@@ -118,7 +118,7 @@ In your desired folder;
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Francis Wayungi**
 
 - GitHub: [@githubhandle](https://github.com/wayungi)
 - Twitter: [@twitterhandle](https://twitter.com/FrancisWayungi)
