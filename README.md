@@ -103,10 +103,10 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder: git@github.com:wayungi/hello_microverse.git
+Clone this repository to your desired folder: `git@github.com:wayungi/hello_microverse.git`
 
 In your desired folder;
-- open the terminal and paste: git@github.com:wayungi/hello_microverse.git
+- open the terminal and paste: `git@github.com:wayungi/hello_microverse.git`
 - cd into hello_microvsers
 - Right click on the index.html file
 - Choose open in browser.
