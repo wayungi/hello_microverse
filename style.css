@@ -1,3 +1,9 @@
 header h2 {
     color:cadetblue;
 }
+
+h2 {font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
