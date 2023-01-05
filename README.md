@@ -162,7 +162,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please visit the developer's ![youtube](youtube.com) channel and leave a like. !
+If you like this project, please visit the developer's ![youtube](https://www.youtube.com/) channel and leave a like. !
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
