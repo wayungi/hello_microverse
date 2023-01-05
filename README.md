@@ -94,52 +94,31 @@ In your desired folder;
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- This is a web application with no installation needed.
+- Double click on the index.html file in the hello_microverse directory and the project will load in the browser
 
 ### Usage
 
 To run the project, execute the following command:
+-cd to hello_microverse directory
+- Double click on the index.html file
+-The project will load in the browser
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
-To run tests, run the following command:
+Tests were not added for this version
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- Fork this project into your repositiory
+- Go to project settings
+- Select Pages
+- select the main branch to deploy 
+- Click deploy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,11 +140,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Add user interface testing**
+- [ ] **Bootsrap will be used as the css frameork**
+- [ ] **The static greeting will be changed to a dynamic greeting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
